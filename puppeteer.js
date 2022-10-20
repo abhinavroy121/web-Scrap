@@ -1,0 +1,1 @@
+await page.evaluate(() => console.info('A console message within the page'));
